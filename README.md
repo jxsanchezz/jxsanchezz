@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Sanchez</h1>
 <h3 align="center">Cybersecurity Analyst</h3>
 
-- 🔭 I’m currently working on **Fedex**
+- 🔭 I’m currently working on **FedEx**
 
 - 👯 I’m looking to collaborate on **anyplace that need a cybersecurity analyst**
 
